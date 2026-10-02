@@ -1,0 +1,9 @@
+{
+  "matches": 6,
+  "decisions": 120,
+  "actions_match_historical": true,
+  "elapsed_seconds": 19.95479296403937,
+  "platform": "Linux-7.0.0-34-generic-x86_64-with-glibc2.43",
+  "binary_sha256": "0788b8b637b65a19065a2542cf9db283365a820a69e4dcad6b12cfa8209b650d",
+  "selection": "block=0, regime=work1024, opponent=mcts, both roles; verification subset, not new inference"
+}

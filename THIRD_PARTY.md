@@ -1,0 +1,5 @@
+# Licensing / Licenciamento
+
+The MIT license covers newly authored HS code, documentation, generators and local generated datasets/results. Derrisor and Balatro files remain outside this project and are not relicensed. No game assets, third-party source code, model weights or paper PDFs are bundled. References retain their own copyright and are linked for attribution. The C toolchain/CMake/Python are external build/runtime tools with their respective licenses; Python's standard library is the only orchestration dependency. Historical reference-test binaries are ignored build artifacts, not distributed source dependencies.
+
+A licença MIT cobre o novo código HS, documentação, geradores e dados/resultados locais. Arquivos do Derrisor e Balatro permanecem fora e não são relicenciados. Não há assets, fontes de terceiros, pesos ou PDFs de artigos redistribuídos. Referências preservam seus direitos e são vinculadas para atribuição. Compilador/CMake/Python são ferramentas externas com suas licenças; apenas a biblioteca padrão de Python é necessária à orquestração. Binários de testes históricos são artefatos de build ignorados, não dependências de fontes distribuídos.

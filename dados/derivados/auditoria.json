@@ -1,0 +1,18 @@
+{
+  "matches": 2016,
+  "decisions": 40320,
+  "scaling_decisions": 2688,
+  "uncapped_decisions": 119,
+  "oracle_decisions": 9,
+  "invalid_actions": 0,
+  "hs_future_states": 0,
+  "evaluation_overruns": 0,
+  "unresolved_truncations": 0,
+  "time_overruns": 2457,
+  "time_overruns_without_flag": 20,
+  "max_time_ms": 5.118448,
+  "sum_measured_policy_seconds": 1667.848901167,
+  "process_rss_min_kib": 26240,
+  "process_rss_max_kib": 26692,
+  "tables_byte_equal_to_archive": true
+}

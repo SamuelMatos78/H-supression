@@ -1,0 +1,15 @@
+{
+  "source": "dados/ultimo_experimento",
+  "tables": "dados/derivados",
+  "matplotlib": "3.11.2",
+  "plots": [
+    "01_confrontos.png",
+    "02_tempo.png",
+    "03_avaliacoes.png",
+    "04_sucessores.png",
+    "05_truncamentos.png",
+    "06_escalabilidade.png",
+    "07_ablacoes.png",
+    "08_memoria.png"
+  ]
+}

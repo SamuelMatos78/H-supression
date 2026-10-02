@@ -1,0 +1,482 @@
+[
+  {
+    "family": "future_renewal",
+    "items": 2,
+    "plies": 2,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "16",
+    "fixed_full_action_outcome_histories": "16",
+    "unmerged_action_outcome_leaves": "81",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_renewal",
+    "items": 2,
+    "plies": 4,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "256",
+    "fixed_full_action_outcome_histories": "256",
+    "unmerged_action_outcome_leaves": "6561",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_renewal",
+    "items": 2,
+    "plies": 10,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "1048576",
+    "fixed_full_action_outcome_histories": "1048576",
+    "unmerged_action_outcome_leaves": "3486784401",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_renewal",
+    "items": 2,
+    "plies": 20,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "1099511627776",
+    "fixed_full_action_outcome_histories": "1099511627776",
+    "unmerged_action_outcome_leaves": "12157665459056928801",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_renewal",
+    "items": 4,
+    "plies": 2,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "256",
+    "fixed_full_action_outcome_histories": "256",
+    "unmerged_action_outcome_leaves": "6561",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_renewal",
+    "items": 4,
+    "plies": 4,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "65536",
+    "fixed_full_action_outcome_histories": "65536",
+    "unmerged_action_outcome_leaves": "43046721",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_renewal",
+    "items": 4,
+    "plies": 10,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "1099511627776",
+    "fixed_full_action_outcome_histories": "1099511627776",
+    "unmerged_action_outcome_leaves": "12157665459056928801",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_renewal",
+    "items": 4,
+    "plies": 20,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "1208925819614629174706176",
+    "fixed_full_action_outcome_histories": "1208925819614629174706176",
+    "unmerged_action_outcome_leaves": "147808829414345923316083210206383297601",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_renewal",
+    "items": 6,
+    "plies": 2,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "4096",
+    "fixed_full_action_outcome_histories": "4096",
+    "unmerged_action_outcome_leaves": "531441",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_renewal",
+    "items": 6,
+    "plies": 4,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "16777216",
+    "fixed_full_action_outcome_histories": "16777216",
+    "unmerged_action_outcome_leaves": "282429536481",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_renewal",
+    "items": 6,
+    "plies": 10,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "1152921504606846976",
+    "fixed_full_action_outcome_histories": "1152921504606846976",
+    "unmerged_action_outcome_leaves": "42391158275216203514294433201",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_renewal",
+    "items": 6,
+    "plies": 20,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "1329227995784915872903807060280344576",
+    "fixed_full_action_outcome_histories": "1329227995784915872903807060280344576",
+    "unmerged_action_outcome_leaves": "1797010299914431210413179829509605039731475627537851106401",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_renewal",
+    "items": 8,
+    "plies": 2,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "65536",
+    "fixed_full_action_outcome_histories": "65536",
+    "unmerged_action_outcome_leaves": "43046721",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_renewal",
+    "items": 8,
+    "plies": 4,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "4294967296",
+    "fixed_full_action_outcome_histories": "4294967296",
+    "unmerged_action_outcome_leaves": "1853020188851841",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_renewal",
+    "items": 8,
+    "plies": 10,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "1208925819614629174706176",
+    "fixed_full_action_outcome_histories": "1208925819614629174706176",
+    "unmerged_action_outcome_leaves": "147808829414345923316083210206383297601",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_renewal",
+    "items": 8,
+    "plies": 20,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "1461501637330902918203684832716283019655932542976",
+    "fixed_full_action_outcome_histories": "1461501637330902918203684832716283019655932542976",
+    "unmerged_action_outcome_leaves": "21847450052839212624230656502990235142567050104912751880812823948662932355201",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_deterministic",
+    "items": 2,
+    "plies": 2,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "16",
+    "fixed_full_action_outcome_histories": "1",
+    "unmerged_action_outcome_leaves": "16",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_deterministic",
+    "items": 2,
+    "plies": 4,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "256",
+    "fixed_full_action_outcome_histories": "1",
+    "unmerged_action_outcome_leaves": "256",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_deterministic",
+    "items": 2,
+    "plies": 10,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "1048576",
+    "fixed_full_action_outcome_histories": "1",
+    "unmerged_action_outcome_leaves": "1048576",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_deterministic",
+    "items": 2,
+    "plies": 20,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "1099511627776",
+    "fixed_full_action_outcome_histories": "1",
+    "unmerged_action_outcome_leaves": "1099511627776",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_deterministic",
+    "items": 4,
+    "plies": 2,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "256",
+    "fixed_full_action_outcome_histories": "1",
+    "unmerged_action_outcome_leaves": "256",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_deterministic",
+    "items": 4,
+    "plies": 4,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "65536",
+    "fixed_full_action_outcome_histories": "1",
+    "unmerged_action_outcome_leaves": "65536",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_deterministic",
+    "items": 4,
+    "plies": 10,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "1099511627776",
+    "fixed_full_action_outcome_histories": "1",
+    "unmerged_action_outcome_leaves": "1099511627776",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_deterministic",
+    "items": 4,
+    "plies": 20,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "1208925819614629174706176",
+    "fixed_full_action_outcome_histories": "1",
+    "unmerged_action_outcome_leaves": "1208925819614629174706176",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_deterministic",
+    "items": 6,
+    "plies": 2,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "4096",
+    "fixed_full_action_outcome_histories": "1",
+    "unmerged_action_outcome_leaves": "4096",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_deterministic",
+    "items": 6,
+    "plies": 4,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "16777216",
+    "fixed_full_action_outcome_histories": "1",
+    "unmerged_action_outcome_leaves": "16777216",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_deterministic",
+    "items": 6,
+    "plies": 10,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "1152921504606846976",
+    "fixed_full_action_outcome_histories": "1",
+    "unmerged_action_outcome_leaves": "1152921504606846976",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_deterministic",
+    "items": 6,
+    "plies": 20,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "1329227995784915872903807060280344576",
+    "fixed_full_action_outcome_histories": "1",
+    "unmerged_action_outcome_leaves": "1329227995784915872903807060280344576",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_deterministic",
+    "items": 8,
+    "plies": 2,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "65536",
+    "fixed_full_action_outcome_histories": "1",
+    "unmerged_action_outcome_leaves": "65536",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_deterministic",
+    "items": 8,
+    "plies": 4,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "4294967296",
+    "fixed_full_action_outcome_histories": "1",
+    "unmerged_action_outcome_leaves": "4294967296",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_deterministic",
+    "items": 8,
+    "plies": 10,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "1208925819614629174706176",
+    "fixed_full_action_outcome_histories": "1",
+    "unmerged_action_outcome_leaves": "1208925819614629174706176",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_deterministic",
+    "items": 8,
+    "plies": 20,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": "1461501637330902918203684832716283019655932542976",
+    "fixed_full_action_outcome_histories": "1",
+    "unmerged_action_outcome_leaves": "1461501637330902918203684832716283019655932542976",
+    "bound": "exact full unmerged tree"
+  },
+  {
+    "family": "future_shared",
+    "items": 2,
+    "plies": 2,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": null,
+    "fixed_full_action_outcome_histories": null,
+    "unmerged_action_outcome_leaves": "81",
+    "bound": "lower bound: no preparations and only subsets of the first four sources; cost <= refresh on every own turn"
+  },
+  {
+    "family": "future_shared",
+    "items": 2,
+    "plies": 4,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": null,
+    "fixed_full_action_outcome_histories": null,
+    "unmerged_action_outcome_leaves": "6561",
+    "bound": "lower bound: no preparations and only subsets of the first four sources; cost <= refresh on every own turn"
+  },
+  {
+    "family": "future_shared",
+    "items": 2,
+    "plies": 10,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": null,
+    "fixed_full_action_outcome_histories": null,
+    "unmerged_action_outcome_leaves": "3486784401",
+    "bound": "lower bound: no preparations and only subsets of the first four sources; cost <= refresh on every own turn"
+  },
+  {
+    "family": "future_shared",
+    "items": 2,
+    "plies": 20,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": null,
+    "fixed_full_action_outcome_histories": null,
+    "unmerged_action_outcome_leaves": "12157665459056928801",
+    "bound": "lower bound: no preparations and only subsets of the first four sources; cost <= refresh on every own turn"
+  },
+  {
+    "family": "future_shared",
+    "items": 4,
+    "plies": 2,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": null,
+    "fixed_full_action_outcome_histories": null,
+    "unmerged_action_outcome_leaves": "6561",
+    "bound": "lower bound: no preparations and only subsets of the first four sources; cost <= refresh on every own turn"
+  },
+  {
+    "family": "future_shared",
+    "items": 4,
+    "plies": 4,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": null,
+    "fixed_full_action_outcome_histories": null,
+    "unmerged_action_outcome_leaves": "43046721",
+    "bound": "lower bound: no preparations and only subsets of the first four sources; cost <= refresh on every own turn"
+  },
+  {
+    "family": "future_shared",
+    "items": 4,
+    "plies": 10,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": null,
+    "fixed_full_action_outcome_histories": null,
+    "unmerged_action_outcome_leaves": "12157665459056928801",
+    "bound": "lower bound: no preparations and only subsets of the first four sources; cost <= refresh on every own turn"
+  },
+  {
+    "family": "future_shared",
+    "items": 4,
+    "plies": 20,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": null,
+    "fixed_full_action_outcome_histories": null,
+    "unmerged_action_outcome_leaves": "147808829414345923316083210206383297601",
+    "bound": "lower bound: no preparations and only subsets of the first four sources; cost <= refresh on every own turn"
+  },
+  {
+    "family": "future_shared",
+    "items": 6,
+    "plies": 2,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": null,
+    "fixed_full_action_outcome_histories": null,
+    "unmerged_action_outcome_leaves": "6561",
+    "bound": "lower bound: no preparations and only subsets of the first four sources; cost <= refresh on every own turn"
+  },
+  {
+    "family": "future_shared",
+    "items": 6,
+    "plies": 4,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": null,
+    "fixed_full_action_outcome_histories": null,
+    "unmerged_action_outcome_leaves": "43046721",
+    "bound": "lower bound: no preparations and only subsets of the first four sources; cost <= refresh on every own turn"
+  },
+  {
+    "family": "future_shared",
+    "items": 6,
+    "plies": 10,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": null,
+    "fixed_full_action_outcome_histories": null,
+    "unmerged_action_outcome_leaves": "12157665459056928801",
+    "bound": "lower bound: no preparations and only subsets of the first four sources; cost <= refresh on every own turn"
+  },
+  {
+    "family": "future_shared",
+    "items": 6,
+    "plies": 20,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": null,
+    "fixed_full_action_outcome_histories": null,
+    "unmerged_action_outcome_leaves": "147808829414345923316083210206383297601",
+    "bound": "lower bound: no preparations and only subsets of the first four sources; cost <= refresh on every own turn"
+  },
+  {
+    "family": "future_shared",
+    "items": 8,
+    "plies": 2,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": null,
+    "fixed_full_action_outcome_histories": null,
+    "unmerged_action_outcome_leaves": "6561",
+    "bound": "lower bound: no preparations and only subsets of the first four sources; cost <= refresh on every own turn"
+  },
+  {
+    "family": "future_shared",
+    "items": 8,
+    "plies": 4,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": null,
+    "fixed_full_action_outcome_histories": null,
+    "unmerged_action_outcome_leaves": "43046721",
+    "bound": "lower bound: no preparations and only subsets of the first four sources; cost <= refresh on every own turn"
+  },
+  {
+    "family": "future_shared",
+    "items": 8,
+    "plies": 10,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": null,
+    "fixed_full_action_outcome_histories": null,
+    "unmerged_action_outcome_leaves": "12157665459056928801",
+    "bound": "lower bound: no preparations and only subsets of the first four sources; cost <= refresh on every own turn"
+  },
+  {
+    "family": "future_shared",
+    "items": 8,
+    "plies": 20,
+    "count_type": "histories, not distinct states or executed operations",
+    "action_histories": null,
+    "fixed_full_action_outcome_histories": null,
+    "unmerged_action_outcome_leaves": "147808829414345923316083210206383297601",
+    "bound": "lower bound: no preparations and only subsets of the first four sources; cost <= refresh on every own turn"
+  }
+]

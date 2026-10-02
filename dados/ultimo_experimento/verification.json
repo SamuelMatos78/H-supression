@@ -1,0 +1,11 @@
+{
+  "games": 2016,
+  "decisions": 40320,
+  "complete_local_optimum_actions_checked": 16000,
+  "independent_random_outcomes_checked": 7680,
+  "original_hs_evaluator_and_selection_logic": "byte-identical to the previous stage",
+  "original_derrisor_files_verified": 1401,
+  "previous_experiment_files_unchanged": 420,
+  "complete_episode_replays": 3,
+  "verification_source_sha256": "365963251a8e4aa4fb70e7a7ba6851e1dcf38a560efbf03d870fdc0fd09e4701"
+}

@@ -1,0 +1,75 @@
+{
+  "question": "Does avoiding temporal expansion help when action/outcome histories are enormous, and which known reductions explain any advantage?",
+  "families": [
+    "future_renewal",
+    "future_deterministic",
+    "future_shared"
+  ],
+  "main_size": 8,
+  "rounds_per_player": 10,
+  "plies": 20,
+  "paired_seed_blocks": 16,
+  "roles": 2,
+  "regimes": {
+    "work1024": [
+      1024,
+      0,
+      20,
+      4096
+    ],
+    "work4096": [
+      4096,
+      0,
+      20,
+      4096
+    ],
+    "time5ms": [
+      0,
+      5,
+      20,
+      4096
+    ]
+  },
+  "opponents": [
+    "expectimax",
+    "mcts",
+    "greedy",
+    "lex_simple",
+    "hs_no_filter",
+    "hs_no_aggregation"
+  ],
+  "extra_controls": {
+    "future_deterministic": [
+      "alphabeta",
+      "renewal_exact"
+    ],
+    "future_renewal": [
+      "renewal_exact"
+    ]
+  },
+  "renewal_exact": "Separate verified specialized control: activate all free nonnegative renewable items; pointwise dominance proves optimality without a temporal tree. Rejected for the coupled shared-market family.",
+  "variants": "Public known probabilities cycle through 0.25, 0.5 and 0.75; both inventories receive the same seeded permutation; private environment/planner seeds are separate.",
+  "scaling": {
+    "items": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "rounds": [
+      1,
+      2,
+      5,
+      10
+    ],
+    "regime": "work4096",
+    "warmups": 1,
+    "measured_repeats": 7
+  },
+  "uncapped": "Initial-observation complete local controls at size 8; exact full-horizon search only at size 2 and 2 rounds; no unlimited intractable search is claimed complete.",
+  "ci": "95% percentile bootstrap of whole paired blocks, 4000 resamples; exploratory, unadjusted comparisons on synthetic cases.",
+  "history_counts": "Exact unmerged action/outcome history counts for renewable families only, NOT distinct states, executed operations, or savings credited to HS. The shared-resource family does not use a stationary branching-power claim.",
+  "timing": "C policy boundary, excludes parsing, Python and actual environment transitions. Soft time caps can overrun.",
+  "memory": "Owned heap separately from stack and process RSS; RSS covers both agents and launcher high-water effects.",
+  "preservation": "Every outcome, decision, configuration, seed, source version and failure is retained; previous tournaments and Derrisor unchanged. Timing pilot is separate from the predeclared tournament."
+}

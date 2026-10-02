@@ -1,0 +1,41 @@
+-- The C compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /tmp/aramuny-portable-o72ieitx/Aramuny/build
+[ 25%] Building C object codigo/CMakeFiles/hs_agents.dir/src/policies.c.o
+[ 25%] Building C object codigo/CMakeFiles/hs_agents.dir/src/engine.c.o
+[ 37%] Building C object codigo/CMakeFiles/hs_agents.dir/src/cases.c.o
+[ 50%] Linking C static library libhs_agents.a
+[ 50%] Built target hs_agents
+[ 75%] Building C object codigo/CMakeFiles/hs_agent_tests.dir/tests/test.c.o
+[ 75%] Building C object codigo/CMakeFiles/hs_arena.dir/src/driver.c.o
+[ 87%] Linking C executable ../agents/hs_arena
+[ 87%] Built target hs_arena
+[100%] Linking C executable ../agents/hs_agent_tests
+[100%] Built target hs_agent_tests
+Test project /tmp/aramuny-portable-o72ieitx/Aramuny/build
+    Start 1: autonomous_agent_properties
+1/1 Test #1: autonomous_agent_properties ......   Passed    0.05 sec
+
+100% tests passed, 0 tests failed out of 1
+
+Total Test time (real) =   0.05 sec
+future_shared role 0 OK
+future_renewal role 0 OK
+future_renewal role 1 OK
+future_deterministic role 0 OK
+future_shared role 1 OK
+future_deterministic role 1 OK
+{"matches": 6, "decisions": 120, "actions_match_historical": true, "elapsed_seconds": 20.041970041987952, "platform": "Linux-7.0.0-34-generic-x86_64-with-glibc2.43", "binary_sha256": "0788b8b637b65a19065a2542cf9db283365a820a69e4dcad6b12cfa8209b650d", "selection": "block=0, regime=work1024, opponent=mcts, both roles; verification subset, not new inference"}
+Resultados novos: /tmp/aramuny-portable-o72ieitx/Aramuny/execucoes/quick-20261002T211408Z-1725724
+{
+  "fixtures_identical": 98,
+  "blocks_identical": 48,
+  "scheduled_matches_identical": 2016,
+  "copied_file_hashes_valid": 132
+}

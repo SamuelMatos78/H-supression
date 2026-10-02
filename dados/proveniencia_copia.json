@@ -1,0 +1,665 @@
+{
+  "source_manifest_verified": 130,
+  "files": [
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/source/agents/src/driver.c",
+      "entrega": "codigo/src/driver.c",
+      "sha256": "ad81ea0bbdf83bfe49a3fcc7fba29ad54a6e582f9aaa4a48b785da6c172d7b2d"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/source/agents/src/policies.c",
+      "entrega": "codigo/src/policies.c",
+      "sha256": "77c9e02c69349e51a1f8e3fa028bd26e691b3852481eb5432f50820c06933802"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/source/agents/src/engine.c",
+      "entrega": "codigo/src/engine.c",
+      "sha256": "a60ff2760dc3cfbc04fdbb20234efb6b5b6dad23cae6be6c80fdba433cf04c69"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/source/agents/src/cases.c",
+      "entrega": "codigo/src/cases.c",
+      "sha256": "ea877217daa814c87bb1f1f735c7e1b9a8d953d3a61159ac707032ef10b84842"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/source/agents/include/agent.h",
+      "entrega": "codigo/include/agent.h",
+      "sha256": "186d730417bc3f494bbab91357a2bcb7698c9e5a536787d3138cfc911e1bb497"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/source/agents/tests/test.c",
+      "entrega": "codigo/tests/test.c",
+      "sha256": "db15778c050875b1ee9a7221ddec0f7d8bc60fa1bc271d697314a76a70df5fa5"
+    },
+    {
+      "original": "HS/agents/tools/futures.py",
+      "entrega": "codigo/tools/futures.py",
+      "sha256": "2b58a157460acc48af8533a8416742a448093503d9a6272c578e9db96b40077e"
+    },
+    {
+      "original": "HS/agents/tools/report.py",
+      "entrega": "codigo/tools/report.py",
+      "sha256": "cc06ebbbbab3410c3ac5eb57807da1adb1f5852009f71dd70e942a154464426d"
+    },
+    {
+      "original": "HS/agents/CMakeLists.txt",
+      "entrega": "codigo/CMakeLists.txt",
+      "sha256": "e15c79600bff941b409b2814c99da8c84fd1adbe260e250615b8705e93b1da93"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/protocol.json",
+      "entrega": "codigo/scenarios/futures_protocol.json",
+      "sha256": "0aaa49b6362d3f6d7b2280207665dec1e2d1a2c405dd868836ac1948c7707270"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/environment.json",
+      "entrega": "dados/ultimo_experimento/environment.json",
+      "sha256": "e252b927b23ee516491fdd9bee5ac09fc28a4c8ff2ff6150d303094388f443b3"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/manifest.json",
+      "entrega": "dados/ultimo_experimento/manifest.json",
+      "sha256": "3314472918a0ea43ee76ef0d3d571a85326c58609e4d2dc21f83c94370c8f7ea"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/build_verification.json",
+      "entrega": "dados/ultimo_experimento/build_verification.json",
+      "sha256": "a709f1810225c58361dc0685e58fb2763f371192357ff611388568ac653cc122"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/blocks.json",
+      "entrega": "dados/ultimo_experimento/blocks.json",
+      "sha256": "b72d47a639a81449632c1ede694d81c7acab68a9aec1759a3938ed4cacd50e84"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/oracle_checks.jsonl",
+      "entrega": "dados/ultimo_experimento/oracle_checks.jsonl",
+      "sha256": "8eda0aa943899f20b42681643300e4a538fe9352f68b4f6a5e99b114ce19d3a4"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/verification.json",
+      "entrega": "dados/ultimo_experimento/verification.json",
+      "sha256": "989b39a8aaea50f52ac4b09ccddabae66126f48850bc7abde89aeab99526a932"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/uncapped.jsonl",
+      "entrega": "dados/ultimo_experimento/uncapped.jsonl",
+      "sha256": "9f3c04831d939fcbd3b25b1c5e8573a02bcad54ee0f09fe0346f47d773e61e94"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/scaling.jsonl",
+      "entrega": "dados/ultimo_experimento/scaling.jsonl",
+      "sha256": "e50876e361c51b75b4d99427f1e48bc1f2f9369aec4d2ce54cc93f7d9252c5a9"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/protocol.json",
+      "entrega": "dados/ultimo_experimento/protocol.json",
+      "sha256": "0aaa49b6362d3f6d7b2280207665dec1e2d1a2c405dd868836ac1948c7707270"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/schedule.json",
+      "entrega": "dados/ultimo_experimento/schedule.json",
+      "sha256": "98cbe372616636f4f86ca7e330b8e6d316c8699bd3f4c2afdd1e4c51011825eb"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/games.jsonl",
+      "entrega": "dados/ultimo_experimento/games.jsonl",
+      "sha256": "348275dc6e95d0398d7d1a39293961fe135899caf9e85b76f7dee00cf73cb1af"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/decisions.jsonl.gz",
+      "entrega": "dados/ultimo_experimento/decisions.jsonl.gz",
+      "sha256": "38896c8d7aa66b710194cd9e2dd37226cdacb7b8fd52ac226d96e70a2b31dac8"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/analysis/history_counts.json",
+      "entrega": "dados/ultimo_experimento/analysis/history_counts.json",
+      "sha256": "f2d6224806e401fa7c7751d1db98ebcda7941865010c8056a602fa363bc5d06e"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/analysis/results.en.md",
+      "entrega": "dados/ultimo_experimento/analysis/results.en.md",
+      "sha256": "a7b26000925597f7b805cb53c866ab1caf257fb084ef47cf65187fdfbeb19f75"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/analysis/decisions.csv",
+      "entrega": "dados/ultimo_experimento/analysis/decisions.csv",
+      "sha256": "4b315921d52baf65d6990206f22f0b46bd80b625a5c10d6e051621f7e849897f"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/analysis/scaling.csv",
+      "entrega": "dados/ultimo_experimento/analysis/scaling.csv",
+      "sha256": "d68bd0ab37691f87f7b3feb3234941a577fbe6cf0e93c88f4fd3bfbffe51cbc7"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/analysis/results.pt-BR.md",
+      "entrega": "dados/ultimo_experimento/analysis/results.pt-BR.md",
+      "sha256": "74079f5657dda6fa8b0585e0dbf68fd9740c78c676d59ff3bcef53c5a9535826"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/analysis/uncapped.csv",
+      "entrega": "dados/ultimo_experimento/analysis/uncapped.csv",
+      "sha256": "1f597f464d2c26a504d3f9c3302b06fda245b52d6c8a72e42409e109b6f91367"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/analysis/checks.json",
+      "entrega": "dados/ultimo_experimento/analysis/checks.json",
+      "sha256": "1bf72d92e09630e14ad5af587a88a08e9e5f10a3314de0bf4b3b6160d23bda0c"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/analysis/matchups.csv",
+      "entrega": "dados/ultimo_experimento/analysis/matchups.csv",
+      "sha256": "7f9e2d4ccf070d76d4b1c7fb7647f904d93db5c86cf435feccfe104767857541"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/analysis/all_outcomes.json",
+      "entrega": "dados/ultimo_experimento/analysis/all_outcomes.json",
+      "sha256": "5b8941adfd96359725bfb4838c1ae7649c3103dd6d149083487b18a89e005c57"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_shared_0.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_shared_0.ag",
+      "sha256": "832632c0071926912f21ef570273564f42d7aff0317f49a89052284e401e9f8b"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_shared_2_2.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_shared_2_2.ag",
+      "sha256": "64351b56fc6d1a04004db03208f4c9233c33b60b954715c3dff4fa4a89edd1cf"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_deterministic_8_5.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_deterministic_8_5.ag",
+      "sha256": "6516885b47458e17595081074f7fdf2da77e19953d149e34044fa67acf68f524"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_shared_15.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_shared_15.ag",
+      "sha256": "a11d0f034bc9a1e2e3204e57eb963c596e8d55928115c3418cb2e480aa97b5ae"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_renewal_2_10.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_renewal_2_10.ag",
+      "sha256": "9a4a4a775cb4fe530e09db865c7031657c7f14f267c92af6f697db05fef3bac7"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_renewal_14.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_renewal_14.ag",
+      "sha256": "753c8eb7184dd13ef4c86066b51f0f9ac6240ab3726d65ddff33ccb1df1046c6"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_shared_6_10.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_shared_6_10.ag",
+      "sha256": "982f2ca38e17931910ba6dbe91dc9f15e4a1458f2c26dfd78af88105a9a9de11"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_shared_2.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_shared_2.ag",
+      "sha256": "aacf84d36fbb6f2dd6bc6622078cebe51d30e20fd2a6bd682019b1ccf346e5fc"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_deterministic_13.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_deterministic_13.ag",
+      "sha256": "cc4045fda08bf5a3d79dcb817baa871bebc478bf8a5fdd9dc89b1a08e650272b"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_renewal_2_5.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_renewal_2_5.ag",
+      "sha256": "244b811ab2d5bfe28ed56a0e6d19dfd75729a2340b0145ad7e41864a5aac2043"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_shared_6_2.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_shared_6_2.ag",
+      "sha256": "8d3fb72c9d22042d7810379161e8c9170dacd979828649b753516c7d53a275d7"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_deterministic_4_10.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_deterministic_4_10.ag",
+      "sha256": "f1ca1b51804e4b1fa7b43a066e54b41e2a0c4b436b907483a000a8d739d84690"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_renewal_8_2.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_renewal_8_2.ag",
+      "sha256": "565599336c49f41863fabf3f36253ac2660943b04adf6aef266db9fe9d5d3a74"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_renewal_4_10.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_renewal_4_10.ag",
+      "sha256": "766deb4ed7fd14a816ae8c16f2c7598a1a5434318460d651e40befbbada2ce4c"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_deterministic_2_5.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_deterministic_2_5.ag",
+      "sha256": "c71929823fd1e947289dc73599be8df1ab43a1b2c15ac0a294c1926672330e3c"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_renewal_6_1.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_renewal_6_1.ag",
+      "sha256": "bd34311452b0e54d9df4e386fb2443a6766bb75a318e9bf20c6ef644e80f3a80"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_renewal_15.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_renewal_15.ag",
+      "sha256": "30d80f2d0c9c08dbbaabb532d49291947240793d3d8469a0a0339ac213e95652"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_deterministic_7.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_deterministic_7.ag",
+      "sha256": "1be2297310813b433285904f7ebaa2703b44636523ae7a6843d9178150690ecb"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_deterministic_2_1.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_deterministic_2_1.ag",
+      "sha256": "e0a309c884eeadb53761da75baf1cbc2d37e6d27161db86fc7b4342353e84bb4"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_shared_14.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_shared_14.ag",
+      "sha256": "f1e14b3931b34553b67920f4e83ae4ed6a3475c3b4555b8ce08e314913e20312"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_deterministic_2.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_deterministic_2.ag",
+      "sha256": "ae5c2d94a803e8383236c437064a54635efb0daca95482cea1f4d8c654b362bd"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_renewal_8_1.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_renewal_8_1.ag",
+      "sha256": "f3c5406106580f7068c4caca605df5d755927fbf43fee901bb68dd2a8a9767bd"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_renewal_0.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_renewal_0.ag",
+      "sha256": "3201b351d88b4918a38c26e98d1aa694f4d13a056df056b2ef09390701ce7caa"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_renewal_2.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_renewal_2.ag",
+      "sha256": "b2c7f473d2a322dda324514c1c4dfc33e9f7d72ef3584ecbd7330f85f482258a"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_shared_8_5.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_shared_8_5.ag",
+      "sha256": "99ed18727d68b61d02742383c7c297e4b22a73eb45a057b13d3e4f9063e4dc72"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_shared_6_1.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_shared_6_1.ag",
+      "sha256": "5fedc718e908510620fe7ab933b38a243fb021931341b0952794786e5c053026"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_shared_3.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_shared_3.ag",
+      "sha256": "b2fd3bd311b47f72ad07772b19d90e482df8b37faaf4115178c49d617ffab422"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_shared_2_5.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_shared_2_5.ag",
+      "sha256": "7925679197cb0bc8d375bed6ae6116a2a01321ef2390df32f8d62316b5032c5d"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_shared_9.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_shared_9.ag",
+      "sha256": "2038ddc55c3a63c015644f4f98793a8b3a970920e82168e5b753a11623a52940"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_renewal_1.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_renewal_1.ag",
+      "sha256": "938798397c5163a567069558f0ddcc96a2c29847f75a00acda90723398325f4b"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_deterministic_10.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_deterministic_10.ag",
+      "sha256": "8f2c3f8c792b0e642cc11b1bac6419bc7f100d2779eadd9a66589f944f045a79"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_renewal_8_5.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_renewal_8_5.ag",
+      "sha256": "2b45fd56820afa5410012e38f9b34cc6e4c7976d2ed492f993608e375a3255c6"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_renewal_4.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_renewal_4.ag",
+      "sha256": "ec7627e25b1bd2fc6375c0b74b27b84ca15dd8e637f2e391da73870355a89953"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_shared_4_1.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_shared_4_1.ag",
+      "sha256": "23b9ff5d53889e7d07f8139ecd96d0738b380ab86f6c63c46db4a7257453404b"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_renewal_6_2.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_renewal_6_2.ag",
+      "sha256": "73010351014752b424ce9c0a5627b7d037dacedf367a3d3ddace864998a3059b"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_shared_6.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_shared_6.ag",
+      "sha256": "33880456f64d6b3fe68b296caf6cf833be406f39f7a10a36adec9466b0191a5e"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_deterministic_4_5.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_deterministic_4_5.ag",
+      "sha256": "31b17b320297fe1af7f0cafa9d6fe2cd1b7acb3387d211955d55003a806957b0"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_deterministic_4.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_deterministic_4.ag",
+      "sha256": "7cf1e889fb8d029d90f80d166578be9ccbc70d278b77cc20d7bfee74d7634cc9"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_deterministic_8_10.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_deterministic_8_10.ag",
+      "sha256": "581026e40518c284fff11299e58c2bad8e689a306d5db57e9b9d9bc907fef450"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_shared_1.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_shared_1.ag",
+      "sha256": "84da09956c6090de25ddb2a51f6f782cae5a4d34c585492d15389f7c57e28622"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_deterministic_5.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_deterministic_5.ag",
+      "sha256": "7fffff9a872d4e12ac2236c5c44e119d49a7778873dbc5fe452c2fbcbb54fd2d"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_deterministic_6_1.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_deterministic_6_1.ag",
+      "sha256": "244941019a0fe4540635f96e460fd5d697ab74721c3e3923156a4b0ee2b5016d"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_shared_11.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_shared_11.ag",
+      "sha256": "16d5d1af71fe7c885949ee247320fbe8ba1b07975defc1a8e6bbf68007a2f4ee"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_deterministic_2_2.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_deterministic_2_2.ag",
+      "sha256": "ea57af58dc84db317fd125ca68f6a1438267cbc5d3d76ab85760daab7eb7bf40"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_shared_13.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_shared_13.ag",
+      "sha256": "a821ac9bbca40311a8cf1f056be3fa1b6b99d0f187c1efe139b8e6464849021d"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_renewal_4_5.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_renewal_4_5.ag",
+      "sha256": "828c314f72b4bc63d8c36b64dc775454b9115810c4fb83d80c302004eb983178"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_deterministic_15.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_deterministic_15.ag",
+      "sha256": "eac740d8b3da954e7a3c9b15936a2843fcac83a3d3942acccf8b2d7e80c155c2"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_renewal_3.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_renewal_3.ag",
+      "sha256": "1a5431fe62794fa63677364bd97cc0e1e15b21402387afe6e2dc3f27dcbba218"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_renewal_11.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_renewal_11.ag",
+      "sha256": "13c4c52f45634ada63e55c76d0bbade67c6eb4183f2b246fb4f7e2677c0ef655"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_deterministic_6_2.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_deterministic_6_2.ag",
+      "sha256": "8fb5f09928db2136be69e685fa941fdc119e71c825b7d6b4c2aa0d3cef463bfb"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_deterministic_6.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_deterministic_6.ag",
+      "sha256": "32debffd721403c70e00fd01da88a87f91d2c346af2a17f1f955e435feaa54cc"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_deterministic_4_2.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_deterministic_4_2.ag",
+      "sha256": "7591f68d3303fc96c763f78e363c80a65bf444fbfd624bd92421805ff6dc0898"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/oracle_future_renewal.ag",
+      "entrega": "dados/ultimo_experimento/inputs/oracle_future_renewal.ag",
+      "sha256": "0954dc53bf8b7aba49d42a08e3a8ab2026ddbd0100e6165b4a60dfdd288c0b0b"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_renewal_9.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_renewal_9.ag",
+      "sha256": "26dd3e7b777b2ffbfe4b8e99864b57ee8c9af9f8a40bc5a2b6dca6e68e7e33e6"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_deterministic_8.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_deterministic_8.ag",
+      "sha256": "96bf00beb9a562b874ae5ce85972016007184307acf4bd3812de4828e7af872c"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_shared_6_5.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_shared_6_5.ag",
+      "sha256": "606a445e024c5c3ecc9b8ef5b0917552a206627f61911261aa0bc58c10bffea6"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_shared_2_10.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_shared_2_10.ag",
+      "sha256": "ae6dfc45685ab5784661bf8b0ad9851c44ebdd2cfdb1fccef227aefd85411dc1"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_renewal_12.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_renewal_12.ag",
+      "sha256": "19be235073f84edd154bc502c64f356705e2b9a9682a15d73c4e80a39323036a"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_deterministic_1.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_deterministic_1.ag",
+      "sha256": "581026e40518c284fff11299e58c2bad8e689a306d5db57e9b9d9bc907fef450"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_shared_8_1.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_shared_8_1.ag",
+      "sha256": "734503d96d9a57f0fc80c11181179a24202903c28c650ecb633e1a4ce949c337"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_renewal_2_1.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_renewal_2_1.ag",
+      "sha256": "38dab99834fadda3f7945d3f63b84276badd9cd8eb704b1bb0968a7bc8e0c255"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_deterministic_2_10.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_deterministic_2_10.ag",
+      "sha256": "6845d1876877c11d339a691453b9c18ef79ba476e6964a849c0526f74f693feb"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_shared_2_1.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_shared_2_1.ag",
+      "sha256": "2878ee801c2e8d3269b99fb6551834a6bdd76bfae855659534ba6487b6b366d5"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_shared_7.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_shared_7.ag",
+      "sha256": "5202641500279ec7872f99adb7abda0538d63b542179111993cc520549406e2c"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_shared_4_10.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_shared_4_10.ag",
+      "sha256": "8d7bc87943d5a1d78964b0327fd3cdf6ce86de778a0dda5f4b0895ba837f6592"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_shared_4.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_shared_4.ag",
+      "sha256": "83544d21407e9891a6d671a28b9d2aa5094fa5ff916c6c7e5bda4d93ff4aa466"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_deterministic_14.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_deterministic_14.ag",
+      "sha256": "cb4f13b8a731df630cf787f8215b9c9a1804aae2bab1ce04a23edec783628271"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_shared_8.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_shared_8.ag",
+      "sha256": "5d51e6d0ea83d408e7ae40a24f7d415ca834d79ebbdbd9e9300ca260467ece37"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_renewal_8.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_renewal_8.ag",
+      "sha256": "09887349070f622c7445d3ed8826288c0eabfda47553e3e4569d904cadffff93"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_deterministic_6_5.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_deterministic_6_5.ag",
+      "sha256": "b19d94c65c31f834dd86ca3cc7de01132afa4f1dc7f595e76cc9e9318169054d"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_deterministic_8_2.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_deterministic_8_2.ag",
+      "sha256": "a9a09b35a733911ebdef8ec6729e5056342235ec0ae513d709f7ccb5a300de20"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_shared_8_2.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_shared_8_2.ag",
+      "sha256": "1368dafafcf26099e74907335fda81c610ac469b1aeb2084eaa02dd369c0c94b"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_shared_8_10.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_shared_8_10.ag",
+      "sha256": "84da09956c6090de25ddb2a51f6f782cae5a4d34c585492d15389f7c57e28622"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/oracle_future_deterministic.ag",
+      "entrega": "dados/ultimo_experimento/inputs/oracle_future_deterministic.ag",
+      "sha256": "ea57af58dc84db317fd125ca68f6a1438267cbc5d3d76ab85760daab7eb7bf40"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_deterministic_6_10.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_deterministic_6_10.ag",
+      "sha256": "f4110df1932599b8d2c2c9a64ac10eeebff6496a187ba2cd394f851b6d361dd4"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_deterministic_12.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_deterministic_12.ag",
+      "sha256": "9eeb1d17c776d080e758c41fb1c5f10ccbc4db1c9bba02e3670de7e6e3c8d65f"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_renewal_8_10.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_renewal_8_10.ag",
+      "sha256": "938798397c5163a567069558f0ddcc96a2c29847f75a00acda90723398325f4b"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_renewal_7.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_renewal_7.ag",
+      "sha256": "60d2aad2e75d34c2c90e6b277a432e64044859555ccbe4fab9619540448a7391"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_renewal_6.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_renewal_6.ag",
+      "sha256": "1c545075be0b0f70d7346ca0d9a39776bbbea1eb0fa33e18b89019a077f929bf"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_shared_4_5.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_shared_4_5.ag",
+      "sha256": "e173b3b8ee2d628fafbb47c68e5c93f291a2c445cb9445014a784166c42c54c7"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_deterministic_9.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_deterministic_9.ag",
+      "sha256": "6ba34210561af6303155a8c5d95ab015d8af93f6b037c6c451cbd66482032830"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_shared_12.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_shared_12.ag",
+      "sha256": "267631ce4667c1cd12d057b4ead17f59c151aa57ddaf22f98ee0e7848bd59a20"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_renewal_6_10.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_renewal_6_10.ag",
+      "sha256": "dd2a3673f04b1ca88befbdc7489ea4517c18fa906808cab33f69d35df11c2c7a"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_deterministic_0.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_deterministic_0.ag",
+      "sha256": "1e5ecbd0978778df628e26c029cb7ec482991b86fc02e37feb73f1bc3d33011b"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_deterministic_4_1.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_deterministic_4_1.ag",
+      "sha256": "729573de56186ceeb989a5136e4975121c8962cf7d8b28ca4be962ca9251f40e"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_renewal_13.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_renewal_13.ag",
+      "sha256": "ac9d76a9320c515468b3103925ac62988e78ae244cc42f7aaee82ac824558437"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_renewal_6_5.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_renewal_6_5.ag",
+      "sha256": "39d89ff2a04c2882b5d8dc885d7fb32599d0efd4b1c8ee9586befed31d5f49aa"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_shared_4_2.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_shared_4_2.ag",
+      "sha256": "3ff5239d60985a06b1139c344e5f1ecda055e95aa2e7007c83d3825a34e301bb"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_shared_10.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_shared_10.ag",
+      "sha256": "945095ad24e75e5cbf15108bf1ed71a2737725856b46e8a0ab939e1d0cce6a55"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_renewal_10.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_renewal_10.ag",
+      "sha256": "a486ba442020a6434867f89239e59cebfca296aada096167d07be9805788f1d0"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_deterministic_3.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_deterministic_3.ag",
+      "sha256": "7e8cee0899db9c379ad28ab5ca68b10809a9aac0ec3376e05caa697a2f68e6e1"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_renewal_5.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_renewal_5.ag",
+      "sha256": "a30a3a3a16ee5dccf424101b943941f1d844310917289a5535d8d1cf037f6b93"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_renewal_4_1.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_renewal_4_1.ag",
+      "sha256": "d4ec044a6eea9fd182b70ce3793d6fb5071448e68684961e15a047e409d07d39"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_deterministic_11.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_deterministic_11.ag",
+      "sha256": "4a5283852926ec4d7a47dcca948f3e3b6fe44f419a2878c7bc638484e35aceff"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_renewal_4_2.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_renewal_4_2.ag",
+      "sha256": "cefad93da4ba9803abbfe70fa0f3027564edd3c2eda48f6aa0b8fc086a2ee2ef"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_deterministic_8_1.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_deterministic_8_1.ag",
+      "sha256": "ebcc980cd16c91b94c178aff460edc14b3dba968ac4571faf32c6d0349c1fca7"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/future_shared_5.ag",
+      "entrega": "dados/ultimo_experimento/inputs/future_shared_5.ag",
+      "sha256": "74f9175d98238826dd322e1e31e6e9acecbd5e20a895061a8cb6bf7c76bb4d78"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/inputs/scale_future_renewal_2_2.ag",
+      "entrega": "dados/ultimo_experimento/inputs/scale_future_renewal_2_2.ag",
+      "sha256": "0954dc53bf8b7aba49d42a08e3a8ab2026ddbd0100e6165b4a60dfdd288c0b0b"
+    },
+    {
+      "original": "HS/agents/results/raw/futures-2026-10-02/source/agents/tools/futures.py",
+      "entrega": "referencias/futures_medicao.py",
+      "sha256": "d132836355cbf825109c7f1a4818683408a6378553728932cbf050e728252ee9"
+    },
+    {
+      "original": "HS/LICENSE",
+      "entrega": "LICENSE",
+      "sha256": "28030259c9709eed8514d3b609def21ec4808de1ec1db6e0366becae24710bdd"
+    },
+    {
+      "original": "HS/THIRD_PARTY.md",
+      "entrega": "THIRD_PARTY.md",
+      "sha256": "3da76233cc6c44bae7ca44e4dddbade661d59bf02bb80b9108a7ba475cd6a140"
+    }
+  ]
+}

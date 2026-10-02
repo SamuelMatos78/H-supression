@@ -1,0 +1,152 @@
+{
+  "narrative_numeric_claims_checked": 29,
+  "all_competitive_cells_checked": 63,
+  "horizon_plot_points_match_csv": true,
+  "claims": [
+    {
+      "claim": "future_renewal/hs/fixed median ms",
+      "value": 0.419049,
+      "text": "0,419049"
+    },
+    {
+      "claim": "future_renewal/expectimax/fixed median ms",
+      "value": 13.410602,
+      "text": "13,410602"
+    },
+    {
+      "claim": "future_renewal/mcts/fixed median ms",
+      "value": 58.376167,
+      "text": "58,376167"
+    },
+    {
+      "claim": "future_renewal/renewal_exact/fixed median ms",
+      "value": 0.022279,
+      "text": "0,022279"
+    },
+    {
+      "claim": "future_shared/hs/fixed median ms",
+      "value": 2.3703670000000003,
+      "text": "2,370367"
+    },
+    {
+      "claim": "future_shared/greedy/fixed median ms",
+      "value": 6.911835,
+      "text": "6,911835"
+    },
+    {
+      "claim": "future_shared/expectimax/fixed median ms",
+      "value": 14.332019,
+      "text": "14,332019"
+    },
+    {
+      "claim": "future_shared/mcts/fixed median ms",
+      "value": 4046.460677,
+      "text": "4.046,460677"
+    },
+    {
+      "claim": "future_renewal/hs/uncapped median ms",
+      "value": 0.410491,
+      "text": "0,410491"
+    },
+    {
+      "claim": "future_renewal/hs_no_aggregation/uncapped median ms",
+      "value": 0.169291,
+      "text": "0,169291"
+    },
+    {
+      "claim": "future_shared/hs/uncapped median ms",
+      "value": 2.2967600000000004,
+      "text": "2,296760"
+    },
+    {
+      "claim": "future_shared/hs_no_aggregation/uncapped median ms",
+      "value": 1.559932,
+      "text": "1,559932"
+    },
+    {
+      "claim": "future_shared/hs_no_filter/uncapped median ms",
+      "value": 11.814665000000002,
+      "text": "11,814665"
+    },
+    {
+      "claim": "shared HS mean_generated",
+      "value": 11008.0,
+      "text": "11.008"
+    },
+    {
+      "claim": "shared HS mean_invalid_candidates",
+      "value": 3072.0,
+      "text": "3.072"
+    },
+    {
+      "claim": "shared HS mean_eliminated_before",
+      "value": 7168.0,
+      "text": "7.168"
+    },
+    {
+      "claim": "shared HS mean_fully_evaluated",
+      "value": 768.0,
+      "text": "768"
+    },
+    {
+      "claim": "shared lex heap",
+      "value": 589824.0,
+      "text": "589.824"
+    },
+    {
+      "claim": "matches",
+      "value": 2016,
+      "text": "2.016"
+    },
+    {
+      "claim": "decisions",
+      "value": 40320,
+      "text": "40.320"
+    },
+    {
+      "claim": "scaling_decisions",
+      "value": 2688,
+      "text": "2.688"
+    },
+    {
+      "claim": "uncapped_decisions",
+      "value": 119,
+      "text": "119"
+    },
+    {
+      "claim": "time_overruns",
+      "value": 2457,
+      "text": "2.457"
+    },
+    {
+      "claim": "time_overruns_without_flag",
+      "value": 20,
+      "text": "20"
+    },
+    {
+      "claim": "process_rss_min_kib",
+      "value": 26240,
+      "text": "26.240"
+    },
+    {
+      "claim": "process_rss_max_kib",
+      "value": 26692,
+      "text": "26.692"
+    },
+    {
+      "claim": "time max",
+      "value": 5.118448,
+      "text": "5,118448"
+    },
+    {
+      "claim": "time excess",
+      "value": 0.11844799999999989,
+      "text": "0,118448"
+    },
+    {
+      "claim": "C measured subtotal",
+      "value": 1667.848901167,
+      "text": "1.667,85"
+    }
+  ]
+}

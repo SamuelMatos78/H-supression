@@ -1,0 +1,386 @@
+[
+  {
+    "family": "future_renewal",
+    "block": 0,
+    "world_seed": 15890590680562516288,
+    "policy_seed": 5502526225492113805,
+    "input": "inputs/future_renewal_0.ag",
+    "input_sha256": "3201b351d88b4918a38c26e98d1aa694f4d13a056df056b2ef09390701ce7caa"
+  },
+  {
+    "family": "future_renewal",
+    "block": 1,
+    "world_seed": 18353204964567449163,
+    "policy_seed": 10344982731189946412,
+    "input": "inputs/future_renewal_1.ag",
+    "input_sha256": "938798397c5163a567069558f0ddcc96a2c29847f75a00acda90723398325f4b"
+  },
+  {
+    "family": "future_renewal",
+    "block": 2,
+    "world_seed": 12373256296165507312,
+    "policy_seed": 9405073034903571022,
+    "input": "inputs/future_renewal_2.ag",
+    "input_sha256": "b2c7f473d2a322dda324514c1c4dfc33e9f7d72ef3584ecbd7330f85f482258a"
+  },
+  {
+    "family": "future_renewal",
+    "block": 3,
+    "world_seed": 7529652968676222894,
+    "policy_seed": 10470396730679227729,
+    "input": "inputs/future_renewal_3.ag",
+    "input_sha256": "1a5431fe62794fa63677364bd97cc0e1e15b21402387afe6e2dc3f27dcbba218"
+  },
+  {
+    "family": "future_renewal",
+    "block": 4,
+    "world_seed": 11670973838212434935,
+    "policy_seed": 3701027865725683521,
+    "input": "inputs/future_renewal_4.ag",
+    "input_sha256": "ec7627e25b1bd2fc6375c0b74b27b84ca15dd8e637f2e391da73870355a89953"
+  },
+  {
+    "family": "future_renewal",
+    "block": 5,
+    "world_seed": 1767175433098328193,
+    "policy_seed": 4804625189669008193,
+    "input": "inputs/future_renewal_5.ag",
+    "input_sha256": "a30a3a3a16ee5dccf424101b943941f1d844310917289a5535d8d1cf037f6b93"
+  },
+  {
+    "family": "future_renewal",
+    "block": 6,
+    "world_seed": 12017491487993638509,
+    "policy_seed": 12164844635180068882,
+    "input": "inputs/future_renewal_6.ag",
+    "input_sha256": "1c545075be0b0f70d7346ca0d9a39776bbbea1eb0fa33e18b89019a077f929bf"
+  },
+  {
+    "family": "future_renewal",
+    "block": 7,
+    "world_seed": 10636386018981527311,
+    "policy_seed": 1509210300551166230,
+    "input": "inputs/future_renewal_7.ag",
+    "input_sha256": "60d2aad2e75d34c2c90e6b277a432e64044859555ccbe4fab9619540448a7391"
+  },
+  {
+    "family": "future_renewal",
+    "block": 8,
+    "world_seed": 3717558195416212996,
+    "policy_seed": 9454211588387342887,
+    "input": "inputs/future_renewal_8.ag",
+    "input_sha256": "09887349070f622c7445d3ed8826288c0eabfda47553e3e4569d904cadffff93"
+  },
+  {
+    "family": "future_renewal",
+    "block": 9,
+    "world_seed": 1447140133939920149,
+    "policy_seed": 4049716093925739434,
+    "input": "inputs/future_renewal_9.ag",
+    "input_sha256": "26dd3e7b777b2ffbfe4b8e99864b57ee8c9af9f8a40bc5a2b6dca6e68e7e33e6"
+  },
+  {
+    "family": "future_renewal",
+    "block": 10,
+    "world_seed": 5399669464363448441,
+    "policy_seed": 10668979018023064711,
+    "input": "inputs/future_renewal_10.ag",
+    "input_sha256": "a486ba442020a6434867f89239e59cebfca296aada096167d07be9805788f1d0"
+  },
+  {
+    "family": "future_renewal",
+    "block": 11,
+    "world_seed": 3211612775819591282,
+    "policy_seed": 438118797070330125,
+    "input": "inputs/future_renewal_11.ag",
+    "input_sha256": "13c4c52f45634ada63e55c76d0bbade67c6eb4183f2b246fb4f7e2677c0ef655"
+  },
+  {
+    "family": "future_renewal",
+    "block": 12,
+    "world_seed": 776240245548825033,
+    "policy_seed": 3344387834619063983,
+    "input": "inputs/future_renewal_12.ag",
+    "input_sha256": "19be235073f84edd154bc502c64f356705e2b9a9682a15d73c4e80a39323036a"
+  },
+  {
+    "family": "future_renewal",
+    "block": 13,
+    "world_seed": 8426408654424611368,
+    "policy_seed": 7956957916449296016,
+    "input": "inputs/future_renewal_13.ag",
+    "input_sha256": "ac9d76a9320c515468b3103925ac62988e78ae244cc42f7aaee82ac824558437"
+  },
+  {
+    "family": "future_renewal",
+    "block": 14,
+    "world_seed": 17246053221008265184,
+    "policy_seed": 17055343028724193654,
+    "input": "inputs/future_renewal_14.ag",
+    "input_sha256": "753c8eb7184dd13ef4c86066b51f0f9ac6240ab3726d65ddff33ccb1df1046c6"
+  },
+  {
+    "family": "future_renewal",
+    "block": 15,
+    "world_seed": 13728786121092051355,
+    "policy_seed": 17667290788273459727,
+    "input": "inputs/future_renewal_15.ag",
+    "input_sha256": "30d80f2d0c9c08dbbaabb532d49291947240793d3d8469a0a0339ac213e95652"
+  },
+  {
+    "family": "future_deterministic",
+    "block": 0,
+    "world_seed": 17855385196066451871,
+    "policy_seed": 2642347157602532535,
+    "input": "inputs/future_deterministic_0.ag",
+    "input_sha256": "1e5ecbd0978778df628e26c029cb7ec482991b86fc02e37feb73f1bc3d33011b"
+  },
+  {
+    "family": "future_deterministic",
+    "block": 1,
+    "world_seed": 14606805487557255890,
+    "policy_seed": 9443712482613906243,
+    "input": "inputs/future_deterministic_1.ag",
+    "input_sha256": "581026e40518c284fff11299e58c2bad8e689a306d5db57e9b9d9bc907fef450"
+  },
+  {
+    "family": "future_deterministic",
+    "block": 2,
+    "world_seed": 10729134312956269900,
+    "policy_seed": 8434668479733564155,
+    "input": "inputs/future_deterministic_2.ag",
+    "input_sha256": "ae5c2d94a803e8383236c437064a54635efb0daca95482cea1f4d8c654b362bd"
+  },
+  {
+    "family": "future_deterministic",
+    "block": 3,
+    "world_seed": 4638548264613158918,
+    "policy_seed": 16686478542493170199,
+    "input": "inputs/future_deterministic_3.ag",
+    "input_sha256": "7e8cee0899db9c379ad28ab5ca68b10809a9aac0ec3376e05caa697a2f68e6e1"
+  },
+  {
+    "family": "future_deterministic",
+    "block": 4,
+    "world_seed": 2412404047993711843,
+    "policy_seed": 8262991257075007425,
+    "input": "inputs/future_deterministic_4.ag",
+    "input_sha256": "7cf1e889fb8d029d90f80d166578be9ccbc70d278b77cc20d7bfee74d7634cc9"
+  },
+  {
+    "family": "future_deterministic",
+    "block": 5,
+    "world_seed": 8213787080268365025,
+    "policy_seed": 12207441245791516203,
+    "input": "inputs/future_deterministic_5.ag",
+    "input_sha256": "7fffff9a872d4e12ac2236c5c44e119d49a7778873dbc5fe452c2fbcbb54fd2d"
+  },
+  {
+    "family": "future_deterministic",
+    "block": 6,
+    "world_seed": 15458983567433935259,
+    "policy_seed": 12200547513138039792,
+    "input": "inputs/future_deterministic_6.ag",
+    "input_sha256": "32debffd721403c70e00fd01da88a87f91d2c346af2a17f1f955e435feaa54cc"
+  },
+  {
+    "family": "future_deterministic",
+    "block": 7,
+    "world_seed": 16933592284189155011,
+    "policy_seed": 7992257492196015894,
+    "input": "inputs/future_deterministic_7.ag",
+    "input_sha256": "1be2297310813b433285904f7ebaa2703b44636523ae7a6843d9178150690ecb"
+  },
+  {
+    "family": "future_deterministic",
+    "block": 8,
+    "world_seed": 13037644530680136537,
+    "policy_seed": 8725637739143676913,
+    "input": "inputs/future_deterministic_8.ag",
+    "input_sha256": "96bf00beb9a562b874ae5ce85972016007184307acf4bd3812de4828e7af872c"
+  },
+  {
+    "family": "future_deterministic",
+    "block": 9,
+    "world_seed": 4809163388765214870,
+    "policy_seed": 15761772908498041469,
+    "input": "inputs/future_deterministic_9.ag",
+    "input_sha256": "6ba34210561af6303155a8c5d95ab015d8af93f6b037c6c451cbd66482032830"
+  },
+  {
+    "family": "future_deterministic",
+    "block": 10,
+    "world_seed": 2492692340197801566,
+    "policy_seed": 12069836684771015873,
+    "input": "inputs/future_deterministic_10.ag",
+    "input_sha256": "8f2c3f8c792b0e642cc11b1bac6419bc7f100d2779eadd9a66589f944f045a79"
+  },
+  {
+    "family": "future_deterministic",
+    "block": 11,
+    "world_seed": 6608577621073737787,
+    "policy_seed": 16450863861368949139,
+    "input": "inputs/future_deterministic_11.ag",
+    "input_sha256": "4a5283852926ec4d7a47dcca948f3e3b6fe44f419a2878c7bc638484e35aceff"
+  },
+  {
+    "family": "future_deterministic",
+    "block": 12,
+    "world_seed": 15932142630052735110,
+    "policy_seed": 15151789732157943591,
+    "input": "inputs/future_deterministic_12.ag",
+    "input_sha256": "9eeb1d17c776d080e758c41fb1c5f10ccbc4db1c9bba02e3670de7e6e3c8d65f"
+  },
+  {
+    "family": "future_deterministic",
+    "block": 13,
+    "world_seed": 1709560242881121217,
+    "policy_seed": 4403761948097799332,
+    "input": "inputs/future_deterministic_13.ag",
+    "input_sha256": "cc4045fda08bf5a3d79dcb817baa871bebc478bf8a5fdd9dc89b1a08e650272b"
+  },
+  {
+    "family": "future_deterministic",
+    "block": 14,
+    "world_seed": 14909200750457631154,
+    "policy_seed": 3890957770584895500,
+    "input": "inputs/future_deterministic_14.ag",
+    "input_sha256": "cb4f13b8a731df630cf787f8215b9c9a1804aae2bab1ce04a23edec783628271"
+  },
+  {
+    "family": "future_deterministic",
+    "block": 15,
+    "world_seed": 5238446373516734514,
+    "policy_seed": 12266504258920650597,
+    "input": "inputs/future_deterministic_15.ag",
+    "input_sha256": "eac740d8b3da954e7a3c9b15936a2843fcac83a3d3942acccf8b2d7e80c155c2"
+  },
+  {
+    "family": "future_shared",
+    "block": 0,
+    "world_seed": 4528936911267589376,
+    "policy_seed": 10789206792644431994,
+    "input": "inputs/future_shared_0.ag",
+    "input_sha256": "832632c0071926912f21ef570273564f42d7aff0317f49a89052284e401e9f8b"
+  },
+  {
+    "family": "future_shared",
+    "block": 1,
+    "world_seed": 17746211499585388627,
+    "policy_seed": 8652555751745856913,
+    "input": "inputs/future_shared_1.ag",
+    "input_sha256": "84da09956c6090de25ddb2a51f6f782cae5a4d34c585492d15389f7c57e28622"
+  },
+  {
+    "family": "future_shared",
+    "block": 2,
+    "world_seed": 4187695974399486168,
+    "policy_seed": 6627711872949403506,
+    "input": "inputs/future_shared_2.ag",
+    "input_sha256": "aacf84d36fbb6f2dd6bc6622078cebe51d30e20fd2a6bd682019b1ccf346e5fc"
+  },
+  {
+    "family": "future_shared",
+    "block": 3,
+    "world_seed": 745319638569560350,
+    "policy_seed": 16651916399031256880,
+    "input": "inputs/future_shared_3.ag",
+    "input_sha256": "b2fd3bd311b47f72ad07772b19d90e482df8b37faaf4115178c49d617ffab422"
+  },
+  {
+    "family": "future_shared",
+    "block": 4,
+    "world_seed": 15897101293191335099,
+    "policy_seed": 8981017826918903131,
+    "input": "inputs/future_shared_4.ag",
+    "input_sha256": "83544d21407e9891a6d671a28b9d2aa5094fa5ff916c6c7e5bda4d93ff4aa466"
+  },
+  {
+    "family": "future_shared",
+    "block": 5,
+    "world_seed": 4870728481687052099,
+    "policy_seed": 181775737164190924,
+    "input": "inputs/future_shared_5.ag",
+    "input_sha256": "74f9175d98238826dd322e1e31e6e9acecbd5e20a895061a8cb6bf7c76bb4d78"
+  },
+  {
+    "family": "future_shared",
+    "block": 6,
+    "world_seed": 6358934138614477869,
+    "policy_seed": 1570368681416674246,
+    "input": "inputs/future_shared_6.ag",
+    "input_sha256": "33880456f64d6b3fe68b296caf6cf833be406f39f7a10a36adec9466b0191a5e"
+  },
+  {
+    "family": "future_shared",
+    "block": 7,
+    "world_seed": 13537503342653489418,
+    "policy_seed": 6339813433003733613,
+    "input": "inputs/future_shared_7.ag",
+    "input_sha256": "5202641500279ec7872f99adb7abda0538d63b542179111993cc520549406e2c"
+  },
+  {
+    "family": "future_shared",
+    "block": 8,
+    "world_seed": 16141918138365288158,
+    "policy_seed": 1437202733920483659,
+    "input": "inputs/future_shared_8.ag",
+    "input_sha256": "5d51e6d0ea83d408e7ae40a24f7d415ca834d79ebbdbd9e9300ca260467ece37"
+  },
+  {
+    "family": "future_shared",
+    "block": 9,
+    "world_seed": 9265435569911883350,
+    "policy_seed": 12540425522470305607,
+    "input": "inputs/future_shared_9.ag",
+    "input_sha256": "2038ddc55c3a63c015644f4f98793a8b3a970920e82168e5b753a11623a52940"
+  },
+  {
+    "family": "future_shared",
+    "block": 10,
+    "world_seed": 13757633438425959621,
+    "policy_seed": 8112725088391845230,
+    "input": "inputs/future_shared_10.ag",
+    "input_sha256": "945095ad24e75e5cbf15108bf1ed71a2737725856b46e8a0ab939e1d0cce6a55"
+  },
+  {
+    "family": "future_shared",
+    "block": 11,
+    "world_seed": 4551719997975481448,
+    "policy_seed": 3669792982386967787,
+    "input": "inputs/future_shared_11.ag",
+    "input_sha256": "16d5d1af71fe7c885949ee247320fbe8ba1b07975defc1a8e6bbf68007a2f4ee"
+  },
+  {
+    "family": "future_shared",
+    "block": 12,
+    "world_seed": 9509201917559007033,
+    "policy_seed": 3809256767131440876,
+    "input": "inputs/future_shared_12.ag",
+    "input_sha256": "267631ce4667c1cd12d057b4ead17f59c151aa57ddaf22f98ee0e7848bd59a20"
+  },
+  {
+    "family": "future_shared",
+    "block": 13,
+    "world_seed": 10376423061978491846,
+    "policy_seed": 9993111064952241506,
+    "input": "inputs/future_shared_13.ag",
+    "input_sha256": "a821ac9bbca40311a8cf1f056be3fa1b6b99d0f187c1efe139b8e6464849021d"
+  },
+  {
+    "family": "future_shared",
+    "block": 14,
+    "world_seed": 5594436422276043991,
+    "policy_seed": 16373466872626415977,
+    "input": "inputs/future_shared_14.ag",
+    "input_sha256": "f1e14b3931b34553b67920f4e83ae4ed6a3475c3b4555b8ce08e314913e20312"
+  },
+  {
+    "family": "future_shared",
+    "block": 15,
+    "world_seed": 13503925241852933183,
+    "policy_seed": 5775667896341425654,
+    "input": "inputs/future_shared_15.ag",
+    "input_sha256": "a11d0f034bc9a1e2e3204e57eb963c596e8d55928115c3418cb2e480aa97b5ae"
+  }
+]
